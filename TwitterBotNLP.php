@@ -1,5 +1,6 @@
 <?php
-//Final script 
+//Code intentionally made lengthy. 
+//PS:- I have no idea why I did that. 
 ignore_user_abort(true);
 require "postagger.php";
 use Abraham\TwitterOAuth\TwitterOAuth;
